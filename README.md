@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br>- 🔭 I’m currently working with: Resilient Coders <br>- 🌱 I’m currently learning: Full-Stack WebDevelopment in XR.<br>- 👯 I’m looking to collaborate on: Gaming Projects! <br>- 🤔 I’m looking for help with: Perfecting Back-End coding with NodeJS and React<br>- 💬 Ask me about: My New Ish! <br>- 📫 How to reach me: www.zurichavers.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I Rap, compose sheet music and write Movies. 
+<br>- 🔭 I’m currently working with: Resilient Coders <br>- 🌱 I’m currently learning: Full-Stack WebDevelopment in XR.<br>- 👯 I’m looking to collaborate on: Gaming Projects! <br>- 🤔 I’m looking for help with: Perfecting Back-End coding with NodeJS and React<br>- 💬 Ask me about: My New Ish! <br>- 📫 How to reach me: www.zurichavers.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I Rap, Compose Sheet Music and Write Movies. 
 
 
 ## 🌐 Socials:
