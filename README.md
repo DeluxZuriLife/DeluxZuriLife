@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br>- 🔭 I’m currently working with: AllTrueVision Studios LLC. <br>- 🌱 I’m currently learning: Technical Directing in Animation Pipelines<br>- 👯 I’m looking to collaborate on: Gaming Projects! <br>- 🤔 I’m looking for help with: Python and JSON coding<br>- 💬 Ask me about: My New Ish! <br>- 📫 How to reach me: www.zurichavers.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I am a polymath and enjoy expressing myself through rap.
+<br>- 🔭 I’m currently working with: AllTrueVision Studios LLC. <br>- 🌱 I’m currently learning: Technical Directing in Animation Pipelines<br>- 👯 I’m looking to collaborate on: Virtual Reality and Augmented Reality Projects <br>- 🤔 I’m looking for help with: Python and JSON coding<br>- 💬 Ask me about: My New Ish! <br>- 📫 How to reach me: www.zurichavers.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I am a polymath and enjoy expressing myself through rap.
 
 
 ## 🌐 Socials:
