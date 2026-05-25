@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br>- 🔭 I’m currently working with: AllTrueVision Studios LLC. <br>- 🌱 I’m currently learning: Technical Directing in Animation Pipelines<br>- 👯 I’m looking to collaborate on: Virtual Reality and Augmented Reality Projects <br>- 🤔 I’m looking for help with: Navigating specicifity of Python syntax and building JSON libraries.<br>- 💬 Ask me about: The Yokai Game I am Developing in Unreal Engine. <br>- 📫 How to reach me: www.zurichavers.com<br>- 😄 Pronouns: He/Him<br> 
+<br>- 🔭 I’m currently working with: AllTrueVision Studios LLC. <br>- 🌱 I’m currently learning: Digital Media at Drexel University for my Masters Degree<br>- 👯 I’m looking to collaborate on: Virtual Reality and Augmented Reality Projects <br>- 🤔 I’m looking for help with: Navigating the specicifity of Python syntax and building JSON libraries.<br>- 💬 Ask me about: The Yokai Game I am Developing in Unreal Engine. <br>- 📫 How to reach me: www.zurichavers.com<br>- 😄 Pronouns: He/Him<br> 
 
 
 ## 🌐 Socials:
